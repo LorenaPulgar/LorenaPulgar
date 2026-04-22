@@ -38,7 +38,7 @@ I focus on **Frontend, UI/UX, process optimization, and cybersecurity** — crea
 ## 🛠️ Other Tools and Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,notion, jira" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,vue,jira" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ I focus on **Frontend, UI/UX, process optimization, and cybersecurity** — crea
 ## 💼 Connect with me
 
 <p align="center">
-  <a href="TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/lorenapulgar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
