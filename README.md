@@ -3,7 +3,7 @@
 <!-- About me-->
 <img align="right" width=300px src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5b24yODNtNGQ2Y3FzNmNkM3Y1bjFkczg1N2xzN201Y2NuODBxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26gslMAdctNhu6YnK/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Hi! I'm Lorena 👩‍💻✨  
 A Systems Engineer passionate about **Frontend Development, UI/UX, Cybersecurity, and process optimization**.
