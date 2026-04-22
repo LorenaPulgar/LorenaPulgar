@@ -5,46 +5,48 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Hi! I'm Lorena 👩‍💻✨  
-A Systems Engineer passionate about **Frontend Development, UI/UX, Cybersecurity, and process optimization**.
+Hi! I'm Lorena 👩‍💻  
 
-I enjoy working across the full experience of a product — from designing intuitive interfaces to improving existing systems and ensuring they are efficient, user-friendly, and secure.
+I’m a Systems Engineer passionate about **building and improving digital products**.  
+I focus on **Frontend, UI/UX, process optimization, and cybersecurity** — creating solutions that are intuitive, efficient, and secure 🔐  
 
-### 🚀 Core focus
-- Frontend Development  
-- UI/UX & user-centered design  
-- Process improvement & optimization  
-- Cybersecurity fundamentals 🔐  
+- 🌱 Currently learning:
+  - React & modern JavaScript  
+  - Cybersecurity fundamentals  
+  - Power Apps  
 
-### 🌱 Currently learning
-- React & modern JavaScript (scalable interfaces)  
-- Cybersecurity & secure development practices  
-- Low-code solutions with Power Apps  
+- 👩‍🏫 Tech educator:
+  - Python game development 🎮  
+  - Graphic design 🎨  
 
-### 🛠️ Experience
-- Improving and optimizing features in existing applications  
-- Designing and enhancing user interfaces  
-- Supporting process standardization and efficiency  
-- Working with tools like Power Apps  
+- 💡 I enjoy improving existing systems and turning ideas into user-friendly solutions  
 
-### 👩‍🏫 Tech educator
-- Python game development instructor 🎮  
-- Graphic design teacher 🎨  
-> Teaching has strengthened my ability to simplify complex concepts and design with empathy  
+- 🤝 Open to collaborate on impactful tech projects  
 
-### 💡 What makes me different
-- I don’t just build — I **analyze, improve, and refine** solutions  
-- Strong combination of **technical skills, creativity, and communication**  
-- Passion for making technology both **useful and accessible**  
+- 📫 Reach me at: **lorenapulgar02@gmail.com**
 
-### 🤝 Let’s collaborate
-- Frontend & UI/UX projects  
-- Process improvement initiatives  
-- Educational or tech-driven projects  
-- Solutions that require both creativity and structure  
+---
 
-### 💬 Ask me about
-Frontend, UI/UX, process improvement, teaching tech, or getting started in programming 😉
+## 🚀 Tech Stack
 
-### 📫 Contact
-- 📧 Reach out to me at: <a href="lorenapulgar02@gmail.com">lorenapulgar02@gmail.com</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git,mysql" />
+</p>
+
+---
+
+## 🛠️ Other Tools and Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,notion, jira" />
+</p>
+
+---
+
+## 💼 Connect with me
+
+<p align="center">
+  <a href="TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
