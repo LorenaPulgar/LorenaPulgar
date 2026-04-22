@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Lorena Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- About me-->
-## <img src="https://giphy.com/embed/26gslMAdctNhu6YnK" width="30px">&nbsp;***About me***
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5b24yODNtNGQ2Y3FzNmNkM3Y1bjFkczg1N2xzN201Y2NuODBxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26gslMAdctNhu6YnK/giphy.gif" width="30px">&nbsp;***About me***
 > *I design and build user-centered digital experiences — and continuously improve them to make them faster, clearer, and more impactful.*
 
 A Systems Engineer focused on **Frontend Development and UI/UX**, passionate about turning ideas into intuitive, scalable, and user-friendly products.
