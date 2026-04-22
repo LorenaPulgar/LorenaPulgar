@@ -27,22 +27,42 @@ I focus on **Frontend, UI/UX, process optimization, and cybersecurity** — crea
 
 ---
 
-## 🚀 Tech Stack
+## My Skills Include
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,sql" />
-</p>
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</span>
+
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</span>
 
 ---
-
-## 🛠️ Other Tools and Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vue,jira,mysql" />
-</p>
-
----
-
 ## 💼 Connect with me
 
 <p align="center">
