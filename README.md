@@ -1,43 +1,47 @@
 <h1 align="center">Hi , I'm Lorena Pulgar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- About me-->
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5b24yODNtNGQ2Y3FzNmNkM3Y1bjFkczg1N2xzN201Y2NuODBxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26gslMAdctNhu6YnK/giphy.gif" width="30px">&nbsp;***About me***
-> *I design and build user-centered digital experiences — and continuously improve them to make them faster, clearer, and more impactful.*
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2x5b24yODNtNGQ2Y3FzNmNkM3Y1bjFkczg1N2xzN201Y2NuODBxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26gslMAdctNhu6YnK/giphy.gif" width="480px">&nbsp;***About me***
+Hi! I'm Lorena 👩‍💻✨  
+A Systems Engineer passionate about **Frontend Development, UI/UX, Cybersecurity, and process optimization**.
 
-A Systems Engineer focused on **Frontend Development and UI/UX**, passionate about turning ideas into intuitive, scalable, and user-friendly products.
-I specialize in **enhancing existing applications** — identifying friction points, improving interfaces, and optimizing user flows to create better digital experiences.
+I enjoy working across the full experience of a product — from designing intuitive interfaces to improving existing systems and ensuring they are efficient, user-friendly, and secure.
 
 ### 🚀 Core focus
 - Frontend Development  
-- UI/UX  
-- Product Improvement  
+- UI/UX & user-centered design  
+- Process improvement & optimization  
+- Cybersecurity fundamentals 🔐  
 
 ### 🌱 Currently learning
 - React & modern JavaScript (scalable interfaces)  
-- UI/UX best practices & user-centered design  
-- Cybersecurity fundamentals 🔐  
+- Cybersecurity & secure development practices  
+- Low-code solutions with Power Apps  
 
 ### 🛠️ Experience
 - Improving and optimizing features in existing applications  
-- Building interactive, user-focused interfaces  
-- Working with low-code tools like Power Apps  
+- Designing and enhancing user interfaces  
+- Supporting process standardization and efficiency  
+- Working with tools like Power Apps  
 
 ### 👩‍🏫 Tech educator
 - Python game development instructor 🎮  
 - Graphic design teacher 🎨  
-> Teaching has strengthened my ability to communicate complex ideas and design with empathy  
+> Teaching has strengthened my ability to simplify complex concepts and design with empathy  
 
 ### 💡 What makes me different
-- I don’t just build — I **analyze, improve, and refine** products  
-- Strong balance between **technical skills + design thinking + communication**  
+- I don’t just build — I **analyze, improve, and refine** solutions  
+- Strong combination of **technical skills, creativity, and communication**  
+- Passion for making technology both **useful and accessible**  
 
 ### 🤝 Let’s collaborate
-- Frontend projects  
-- UI/UX improvements  
-- Digital products with real user impact  
+- Frontend & UI/UX projects  
+- Process improvement initiatives  
+- Educational or tech-driven projects  
+- Solutions that require both creativity and structure  
 
 ### 💬 Ask me about
-Frontend, UI improvements, product thinking, or getting started in tech 😉
+Frontend, UI/UX, process improvement, teaching tech, or getting started in programming 😉
 
 ### 📫 Contact
 - 📧 Reach out to me at: <a href="lorenapulgar02@gmail.com">lorenapulgar02@gmail.com</a>
