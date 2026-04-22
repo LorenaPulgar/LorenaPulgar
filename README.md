@@ -30,7 +30,7 @@ I focus on **Frontend, UI/UX, process optimization, and cybersecurity** — crea
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,git,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,sql" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ I focus on **Frontend, UI/UX, process optimization, and cybersecurity** — crea
 ## 🛠️ Other Tools and Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,vue,jira" />
+  <img src="https://skillicons.dev/icons?i=git,github,vue,jira,mysql" />
 </p>
 
 ---
